@@ -56,11 +56,7 @@
 								<h3>OurTwitch</h3>
 								<p>A Ruby and Rails app that displays and orders live streams based on viewership and allows users to follow their favorite personalities.</p>
 							</article>
-							<article class="col-6 col-12-xsmall work-item">
-								<a href="images/fulls/04.jpg" class="image fit thumb"><img src="images/thumbs/04.jpg" alt="" /></a>
-								<h3>Quam neque phasellus</h3>
-								<p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
-							</article>
+							
 						</div>
 						<ul class="actions">
 							<li><a href="#" class="button">Full Portfolio</a></li>
